@@ -2,13 +2,8 @@
 
 ## 3.27.0
 
-### Minor Changes
-
 - eeef3f8: nebius ai studio models
 - 8cc823c: sap provider - support reasoning effort for open ai models
-
-### Patch Changes
-
 - b1ab896: fix Claude 4 image input in SAP AI Core Provider.
 
 ## [3.26.3]
